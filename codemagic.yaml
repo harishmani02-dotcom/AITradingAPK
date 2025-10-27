@@ -1,9 +1,1 @@
-# yaml
-workflows:
-  default:
-    name: Default workflow
-    scripts:
-      - echo "Building..."
-    environment:
-      vars:
-        EXAMPLE_VAR: "value"
+
